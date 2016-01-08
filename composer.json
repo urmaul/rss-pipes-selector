@@ -1,0 +1,11 @@
+{
+    "require": {
+        "symfony/dom-crawler": "~3.0",
+        "symfony/css-selector": "~3.0",
+        "urmaul/rss-pipes": "~1.4",
+        "urmaul/url": "~1.2"
+    },
+    "autoload": {
+        "psr-4": {"rsspipes\\sections\\": "src/"}
+    }
+}
